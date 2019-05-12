@@ -1,0 +1,9 @@
+
+
+Remover um diretório vazio
+
+rmdir "NOME DO DIRETORIO"
+
+Remover um diretório com arquivos
+
+rm -r "NOME DO DIRETORIO"
