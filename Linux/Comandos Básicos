@@ -2,8 +2,12 @@
 
 Remover um diretório vazio
 
-rmdir "NOME DO DIRETORIO"
+rmdir [NOME DO DIRETORIO]
 
 Remover um diretório com arquivos
 
-rm -r "NOME DO DIRETORIO"
+rm -r [NOME DO DIRETORIO]
+
+Remover um unico arquivo
+
+rm [NOME DO ARQUIVO]
