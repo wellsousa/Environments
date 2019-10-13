@@ -1,0 +1,4 @@
+ 
+Instalação com Snap
+
+sudo snap install code --classic

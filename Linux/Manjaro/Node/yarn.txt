@@ -1,0 +1,4 @@
+ 
+Para instalar o yarn use o comando:
+
+sudo pacman -S yarn
